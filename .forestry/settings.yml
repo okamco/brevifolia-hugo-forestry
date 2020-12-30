@@ -16,7 +16,6 @@ sections:
 - type: document
   path: content/about/info.md
   label: About
-  read_only: false
 - type: document
   path: content/data/faq.yaml
   label: FAQ
